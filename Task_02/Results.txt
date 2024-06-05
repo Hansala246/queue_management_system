@@ -1,0 +1,2 @@
+uu,hh,8
+Stock left :42
